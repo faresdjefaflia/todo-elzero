@@ -1,0 +1,34 @@
+main{
+  width:300px;
+  max-width: 500px;
+}
+
+form{
+  border: solid 1px rgb(110, 109, 109);
+  padding: 10px 15px;
+  border-radius: 6px;
+}
+input{
+  padding: 6px;
+}
+.todo{
+  border: solid 1px rgb(110, 109, 109);
+  padding: 10px 15px;
+  border-radius:6px;
+  margin: 10px 0;
+}
+.add{
+  padding: 6px;
+  background-color:rgb(102, 194, 99);
+  color: #fff;
+}
+i{
+  cursor: pointer;
+  color: brown;
+  padding: 10px;
+  background-color: rgb(255, 187, 187);
+  border-radius: 3px;
+}
+.done{
+  opacity:0.5;
+}
